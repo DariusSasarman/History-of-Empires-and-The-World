@@ -1,4 +1,4 @@
-# History-of-Empires-and-The-World-RUSSIA
+# History-of-Empires-and-The-World : RUSSIA
 Android app, with text in romanian, that I made in the 11th grade.
 It was supposed to be a series of all empires and how their territory evolved in time.
 Made with Java, XML and graddle.
